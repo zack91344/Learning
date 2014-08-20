@@ -1,0 +1,35 @@
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\Bin\Debug\Hello World.dll
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\Bin\Debug\Hello World.pdb
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\Bin\Debug\resources.pri
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\Bin\Debug\AppxManifest.xml
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\Bin\Debug\Hello World.build.appxrecipe
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\Bin\Debug\AppManifest.xaml
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\Bin\Debug\Hello_World_Debug_AnyCPU.xap
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\App.g.cs
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\MainPage.g.cs
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.g.resources
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello_World.Resources.AppResources.resources
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.csproj.GenerateResource.Cache
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.dll
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.pdb
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\priconfig.xml
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\priconfig.xml.intermediate
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\layout.resfiles
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\layout.resfiles.intermediate
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\resources.resfiles
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\resources.resfiles.intermediate
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\pri.resfiles
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\pri.resfiles.intermediate
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\qualifiers.txt
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\qualifiers.txt.intermediate
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\ProjectArchitectures.txt
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\MDILProjectFiles.xml
+C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\XapCacheFile.xml
