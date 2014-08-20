@@ -33,3 +33,38 @@ C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\MultipleQu
 C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\ProjectArchitectures.txt
 C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\MDILProjectFiles.xml
 C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\obj\Debug\XapCacheFile.xml
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\Bin\Debug\Assets\ApplicationIcon.png
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\Bin\Debug\Hello World.dll
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\Bin\Debug\Hello World.pdb
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\Bin\Debug\resources.pri
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\Bin\Debug\AppxManifest.xml
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\Bin\Debug\Hello World.build.appxrecipe
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\Bin\Debug\Properties\WMAppManifest.xml
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\Bin\Debug\AppManifest.xaml
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\Bin\Debug\Hello_World_Debug_AnyCPU.xap
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\App.g.cs
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\MainPage.g.cs
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\Hello World.g.resources
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\Hello_World.Resources.AppResources.resources
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.Cache
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\Hello World.dll
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\Hello World.pdb
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\priconfig.xml
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\priconfig.xml.intermediate
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\layout.resfiles
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\layout.resfiles.intermediate
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\resources.resfiles
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\resources.resfiles.intermediate
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\pri.resfiles
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\pri.resfiles.intermediate
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\qualifiers.txt
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\qualifiers.txt.intermediate
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\ProjectArchitectures.txt
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\MDILProjectFiles.xml
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\XapCacheFile.xml

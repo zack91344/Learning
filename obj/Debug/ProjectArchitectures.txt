@@ -1,1 +1,1 @@
-C:\Users\zacka\AppData\Local\Temporary Projects\Hello World\Hello World.csproj;neutral
+\\imself-backend2\userdata_ntdev\zacka\Documents\Visual Studio 2013\Projects\Hello World\Hello World\Hello World.csproj;neutral

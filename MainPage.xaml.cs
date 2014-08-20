@@ -22,6 +22,11 @@ namespace Hello_World
             //BuildLocalizedApplicationBar();
         }
 
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            greetingsMessage.Text = "Greetings, " + inputString.Text + "!";
+        }
+
         // Sample code for building a localized ApplicationBar
         //private void BuildLocalizedApplicationBar()
         //{
