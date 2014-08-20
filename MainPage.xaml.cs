@@ -24,7 +24,7 @@ namespace Hello_World
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            greetingsMessage.Text = "Greetings, " + inputString.Text + "!";
+            greetingsMessage.Text = "Greetings, " + inputString.Text + "!"; 
         }
 
         // Sample code for building a localized ApplicationBar
