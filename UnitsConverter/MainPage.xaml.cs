@@ -22,6 +22,20 @@ namespace UnitsConverter
             //BuildLocalizedApplicationBar();
         }
 
+        private void Convert_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Convert clicked");
+        }
+
+        private void fahr_gotFocus(object sender, RoutedEventArgs e)
+        {
+        }
+
+        private void cel_gotFocus(object sender, RoutedEventArgs e)
+        {
+        }
+
+
         // Sample code for building a localized ApplicationBar
         //private void BuildLocalizedApplicationBar()
         //{
