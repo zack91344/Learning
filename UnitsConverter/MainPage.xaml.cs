@@ -31,7 +31,7 @@ namespace UnitsConverter
         {
             if (conversionType.Value == "temperature")
             {
-                this.Title = "temperature";
+                this.TitlePage.Text = "temperature";
                 textBlock1.Text = "Fahrenheit";
                 textBlock2.Text = "Celsius";
                 fahrInput.Text = "";
@@ -39,7 +39,7 @@ namespace UnitsConverter
             }
             else
             {
-                this.Title = "spoons";
+                this.TitlePage.Text = "spoons";
                 textBlock1.Text = "Teaspoons";
                 textBlock2.Text = "Tablespoons";
                 fahrInput.Text = "";

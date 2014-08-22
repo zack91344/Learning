@@ -50,7 +50,7 @@
                        Margin="12,0" />
             <TextBlock Text="temperature"
                        Margin="9,-7,0,0"
-                       
+                       Name="TitlePage"
                        Style="{StaticResource PhoneTextTitle1Style}" />
         </StackPanel>
 
