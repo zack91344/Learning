@@ -11,6 +11,7 @@
                             Foreground="{StaticResource PhoneForegroundBrush}"
                             SupportedOrientations="Portrait"
                             Orientation="Portrait"
+                            Loaded="PhoneApplicationPage_Loaded"
                             shell:SystemTray.IsVisible="True">
 
     <!--LayoutRoot is the root grid where all page content is placed-->
@@ -49,6 +50,7 @@
                        Margin="12,0" />
             <TextBlock Text="temperature"
                        Margin="9,-7,0,0"
+                       
                        Style="{StaticResource PhoneTextTitle1Style}" />
         </StackPanel>
 
@@ -62,6 +64,7 @@
                  Text=""
                  VerticalAlignment="Top"
                  Name="fahrInput"
+                 GotFocus="fahr_gotFocus"
                  Width="460" />
         <TextBox HorizontalAlignment="Left"
                  Height="72"
@@ -71,20 +74,21 @@
                  Text=""
                  Name="celInput"
                  VerticalAlignment="Top"
+                 GotFocus="cel_gotFocus"
                  Width="460" />
         <TextBlock HorizontalAlignment="Left"
                    Margin="28,27,0,0"
                    Grid.Row="1"
                    TextWrapping="Wrap"
                    Text="fahrenheit"
-                   GotFocus="fahr_gotFocus"
+                   Name="textBlock1"
                    VerticalAlignment="Top" />
         <TextBlock HorizontalAlignment="Left"
                    Margin="28,154,0,0"
                    Grid.Row="1"
                    TextWrapping="Wrap"
                    Text="celsius"
-                   GotFocus="cel_gotFocus"
+                   Name="textBlock2"
                    VerticalAlignment="Top" />
     </Grid>
 
@@ -94,6 +98,13 @@
                 <shell:ApplicationBarIconButton Click="Convert_Click"
                                                 IconUri="/Images/sync.png"
                                                 Text="Convert" />
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="Temperature"
+                                              Click="ChooseTemperatureConversion_Click" />
+                <shell:ApplicationBarMenuItem Text="Teaspoon/Tablespoon"
+                                              Click="ChooseSpoonConversion_Click" />
+                                              
+            </shell:ApplicationBar.MenuItems>
         </shell:ApplicationBar>
     </phone:PhoneApplicationPage.ApplicationBar>
 
