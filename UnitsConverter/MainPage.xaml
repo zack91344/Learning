@@ -103,7 +103,9 @@
                                               Click="ChooseTemperatureConversion_Click" />
                 <shell:ApplicationBarMenuItem Text="Teaspoon/Tablespoon"
                                               Click="ChooseSpoonConversion_Click" />
-                                              
+                <shell:ApplicationBarMenuItem Text="About"
+                                              Click="About_Click" />
+
             </shell:ApplicationBar.MenuItems>
         </shell:ApplicationBar>
     </phone:PhoneApplicationPage.ApplicationBar>

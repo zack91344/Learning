@@ -18,3 +18,4 @@ c:\users\zack\documents\visual studio 2012\Projects\UnitsConverter\UnitsConverte
 c:\users\zack\documents\visual studio 2012\Projects\UnitsConverter\UnitsConverter\obj\Debug\UnitsConverter.pdb
 c:\users\zack\documents\visual studio 2012\Projects\UnitsConverter\UnitsConverter\obj\Debug\XapCacheFile.xml
 c:\users\zack\documents\visual studio 2012\Projects\UnitsConverter\UnitsConverter\Bin\Debug\Images\sync.png
+c:\users\zack\documents\visual studio 2012\Projects\UnitsConverter\UnitsConverter\obj\Debug\About.g.cs
