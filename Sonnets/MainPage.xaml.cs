@@ -21,7 +21,7 @@ namespace Sonnets
 
             // Set the data context of the LongListSelector control to the sample data
             DataContext = App.ViewModel;
-     //       this.Loaded += new RoutedEventHandler(MainPage_Loaded);
+            this.Loaded += new RoutedEventHandler(MainPage_Loaded);
 
             // Sample code to localize the ApplicationBar
             //BuildLocalizedApplicationBar();
@@ -44,10 +44,17 @@ namespace Sonnets
                 return;
 
             // Navigate to the new page
+            //string debug = (string)(MainLongListSelector.SelectedItem as ItemViewModel).ID;
             NavigationService.Navigate(new Uri("/DetailsPage.xaml?selectedItem=" + (MainLongListSelector.SelectedItem as ItemViewModel).ID, UriKind.Relative));
 
             // Reset selected item to null (no selection)
             MainLongListSelector.SelectedItem = null;
+        }
+
+        private void MainPage_Loaded(object sender, RoutedEventArgs e)
+        {
+            if (!App.ViewModel.IsDataLoaded)
+                App.ViewModel.LoadData();
         }
 
         // Sample code for building a localized ApplicationBar

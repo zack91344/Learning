@@ -18,3 +18,4 @@ c:\users\zack\documents\visual studio 2012\Projects\Sonnets\Sonnets\obj\Debug\So
 c:\users\zack\documents\visual studio 2012\Projects\Sonnets\Sonnets\obj\Debug\Sonnets.dll
 c:\users\zack\documents\visual studio 2012\Projects\Sonnets\Sonnets\obj\Debug\Sonnets.pdb
 c:\users\zack\documents\visual studio 2012\Projects\Sonnets\Sonnets\obj\Debug\XapCacheFile.xml
+c:\users\zack\documents\visual studio 2012\Projects\Sonnets\Sonnets\Bin\Debug\Contents\sonnets.xml
